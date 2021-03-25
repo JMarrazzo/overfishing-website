@@ -59,7 +59,7 @@ h3{
   z-index: 1; 
   top: 0; 
   left: 0;
-  background-color: #3893EB; /* Dark Blue*/
+  background-color: #3893EB; /*sky Blue */
   overflow-x: hidden; 
   padding-top: 60px; 
   transition: 0.5s; 
@@ -76,14 +76,14 @@ span{
   padding: 8px 8px 8px 32px;
   text-decoration: none;
   font-size: 25px;
-  color: #ffffff;
+  color: #ffffff; /* white */
   display: block;
   transition: 0.3s;
 }
 
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover {
-  color: #f1f1f1;
+  color: #010101; /* black */
 }
 
 /* Position and style the close button (top right corner) */
