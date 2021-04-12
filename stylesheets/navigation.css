@@ -6,12 +6,25 @@
     padding: 2px
 }
 
+.float-center {
+    float: middle;
+    clear: middle;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    padding: 2px
+}
+
 .float-right {
     float: right;
     clear: right;
     margin-left: 10px;
     margin-bottom: 5px;
     padding: 2px
+}
+
+.half-fluid {
+  max-width: 50%;
+  height: auto;
 }
 
 body, html {
